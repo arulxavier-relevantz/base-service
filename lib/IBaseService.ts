@@ -1,4 +1,4 @@
-/// <reference path="../typings/main.d.ts" />
+
 import * as Express from "express";
 
 interface IBaseService {

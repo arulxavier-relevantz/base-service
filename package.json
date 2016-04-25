@@ -20,7 +20,7 @@
     "url": "https://github.com/frontians-web/base-service/issues"
   },
   "homepage": "https://github.com/frontians-web/base-service#readme",
-  "devDependencies": {
+  "dependencies": {
     "body-parser": "^1.14.2",
     "clear": "0.0.1",
     "connect": "^3.4.0",

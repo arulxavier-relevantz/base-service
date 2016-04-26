@@ -13,3 +13,5 @@ class BaseService {
         return _response;
     }
 }
+
+export {BaseService}

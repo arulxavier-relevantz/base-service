@@ -1,4 +1,3 @@
-///// <reference path="../typings/main.d.ts" />
 import * as Express from "express";
 
 interface IBaseService {
@@ -10,4 +9,4 @@ interface IBaseService {
     findById: Express.RequestHandler;
 }
 
-export {IBaseService};
+export { IBaseService };
